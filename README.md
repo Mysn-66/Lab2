@@ -31,3 +31,4 @@ Run any file using:
 
 ```bash
 python3 clue.py
+python3 puzzle.py
